@@ -101,6 +101,9 @@ To maintain data integrity and structure, a staging layer in Azure Data Lake Gen
 
 ![Triggers creation](https://github.com/CharanTejaV/Data-Migration-On-Premise-PostgreSQL-To-Azure-SQL-Database/assets/143735053/5b303859-008e-4175-8301-c7e98683813a)
 
+![image](https://github.com/CharanTejaV/Data-Migration-On-Premise-PostgreSQL-To-Azure-SQL-Database/assets/143735053/e5e368e3-1b98-423c-a275-46b7967d74cc)
+
+
 ![SQL Output in ADS](https://github.com/CharanTejaV/Data-Migration-On-Premise-PostgreSQL-To-Azure-SQL-Database/assets/143735053/827f75f7-d788-4b64-88db-e0e7645a137c)
 
 ## Conclusion
