@@ -1,0 +1,570 @@
+{
+	"count": 136,
+	"value": [
+		{
+			"schema": "humanresources",
+			"table": "department"
+		},
+		{
+			"schema": "humanresources",
+			"table": "employee"
+		},
+		{
+			"schema": "humanresources",
+			"table": "employeedepartmenthistory"
+		},
+		{
+			"schema": "humanresources",
+			"table": "employeepayhistory"
+		},
+		{
+			"schema": "humanresources",
+			"table": "jobcandidate"
+		},
+		{
+			"schema": "humanresources",
+			"table": "shift"
+		},
+		{
+			"schema": "information_schema",
+			"table": "sql_features"
+		},
+		{
+			"schema": "information_schema",
+			"table": "sql_implementation_info"
+		},
+		{
+			"schema": "information_schema",
+			"table": "sql_parts"
+		},
+		{
+			"schema": "information_schema",
+			"table": "sql_sizing"
+		},
+		{
+			"schema": "person",
+			"table": "address"
+		},
+		{
+			"schema": "person",
+			"table": "addresstype"
+		},
+		{
+			"schema": "person",
+			"table": "businessentity"
+		},
+		{
+			"schema": "person",
+			"table": "businessentityaddress"
+		},
+		{
+			"schema": "person",
+			"table": "businessentitycontact"
+		},
+		{
+			"schema": "person",
+			"table": "contacttype"
+		},
+		{
+			"schema": "person",
+			"table": "countryregion"
+		},
+		{
+			"schema": "person",
+			"table": "emailaddress"
+		},
+		{
+			"schema": "person",
+			"table": "password"
+		},
+		{
+			"schema": "person",
+			"table": "person"
+		},
+		{
+			"schema": "person",
+			"table": "personphone"
+		},
+		{
+			"schema": "person",
+			"table": "phonenumbertype"
+		},
+		{
+			"schema": "person",
+			"table": "stateprovince"
+		},
+		{
+			"schema": "pg_catalog",
+			"table": "pg_aggregate"
+		},
+		{
+			"schema": "pg_catalog",
+			"table": "pg_am"
+		},
+		{
+			"schema": "pg_catalog",
+			"table": "pg_amop"
+		},
+		{
+			"schema": "pg_catalog",
+			"table": "pg_amproc"
+		},
+		{
+			"schema": "pg_catalog",
+			"table": "pg_attrdef"
+		},
+		{
+			"schema": "pg_catalog",
+			"table": "pg_attribute"
+		},
+		{
+			"schema": "pg_catalog",
+			"table": "pg_auth_members"
+		},
+		{
+			"schema": "pg_catalog",
+			"table": "pg_authid"
+		},
+		{
+			"schema": "pg_catalog",
+			"table": "pg_cast"
+		},
+		{
+			"schema": "pg_catalog",
+			"table": "pg_class"
+		},
+		{
+			"schema": "pg_catalog",
+			"table": "pg_collation"
+		},
+		{
+			"schema": "pg_catalog",
+			"table": "pg_constraint"
+		},
+		{
+			"schema": "pg_catalog",
+			"table": "pg_conversion"
+		},
+		{
+			"schema": "pg_catalog",
+			"table": "pg_database"
+		},
+		{
+			"schema": "pg_catalog",
+			"table": "pg_db_role_setting"
+		},
+		{
+			"schema": "pg_catalog",
+			"table": "pg_default_acl"
+		},
+		{
+			"schema": "pg_catalog",
+			"table": "pg_depend"
+		},
+		{
+			"schema": "pg_catalog",
+			"table": "pg_description"
+		},
+		{
+			"schema": "pg_catalog",
+			"table": "pg_enum"
+		},
+		{
+			"schema": "pg_catalog",
+			"table": "pg_event_trigger"
+		},
+		{
+			"schema": "pg_catalog",
+			"table": "pg_extension"
+		},
+		{
+			"schema": "pg_catalog",
+			"table": "pg_foreign_data_wrapper"
+		},
+		{
+			"schema": "pg_catalog",
+			"table": "pg_foreign_server"
+		},
+		{
+			"schema": "pg_catalog",
+			"table": "pg_foreign_table"
+		},
+		{
+			"schema": "pg_catalog",
+			"table": "pg_index"
+		},
+		{
+			"schema": "pg_catalog",
+			"table": "pg_inherits"
+		},
+		{
+			"schema": "pg_catalog",
+			"table": "pg_init_privs"
+		},
+		{
+			"schema": "pg_catalog",
+			"table": "pg_language"
+		},
+		{
+			"schema": "pg_catalog",
+			"table": "pg_largeobject"
+		},
+		{
+			"schema": "pg_catalog",
+			"table": "pg_largeobject_metadata"
+		},
+		{
+			"schema": "pg_catalog",
+			"table": "pg_namespace"
+		},
+		{
+			"schema": "pg_catalog",
+			"table": "pg_opclass"
+		},
+		{
+			"schema": "pg_catalog",
+			"table": "pg_operator"
+		},
+		{
+			"schema": "pg_catalog",
+			"table": "pg_opfamily"
+		},
+		{
+			"schema": "pg_catalog",
+			"table": "pg_parameter_acl"
+		},
+		{
+			"schema": "pg_catalog",
+			"table": "pg_partitioned_table"
+		},
+		{
+			"schema": "pg_catalog",
+			"table": "pg_policy"
+		},
+		{
+			"schema": "pg_catalog",
+			"table": "pg_proc"
+		},
+		{
+			"schema": "pg_catalog",
+			"table": "pg_publication"
+		},
+		{
+			"schema": "pg_catalog",
+			"table": "pg_publication_namespace"
+		},
+		{
+			"schema": "pg_catalog",
+			"table": "pg_publication_rel"
+		},
+		{
+			"schema": "pg_catalog",
+			"table": "pg_range"
+		},
+		{
+			"schema": "pg_catalog",
+			"table": "pg_replication_origin"
+		},
+		{
+			"schema": "pg_catalog",
+			"table": "pg_rewrite"
+		},
+		{
+			"schema": "pg_catalog",
+			"table": "pg_seclabel"
+		},
+		{
+			"schema": "pg_catalog",
+			"table": "pg_sequence"
+		},
+		{
+			"schema": "pg_catalog",
+			"table": "pg_shdepend"
+		},
+		{
+			"schema": "pg_catalog",
+			"table": "pg_shdescription"
+		},
+		{
+			"schema": "pg_catalog",
+			"table": "pg_shseclabel"
+		},
+		{
+			"schema": "pg_catalog",
+			"table": "pg_statistic"
+		},
+		{
+			"schema": "pg_catalog",
+			"table": "pg_statistic_ext"
+		},
+		{
+			"schema": "pg_catalog",
+			"table": "pg_statistic_ext_data"
+		},
+		{
+			"schema": "pg_catalog",
+			"table": "pg_subscription"
+		},
+		{
+			"schema": "pg_catalog",
+			"table": "pg_subscription_rel"
+		},
+		{
+			"schema": "pg_catalog",
+			"table": "pg_tablespace"
+		},
+		{
+			"schema": "pg_catalog",
+			"table": "pg_transform"
+		},
+		{
+			"schema": "pg_catalog",
+			"table": "pg_trigger"
+		},
+		{
+			"schema": "pg_catalog",
+			"table": "pg_ts_config"
+		},
+		{
+			"schema": "pg_catalog",
+			"table": "pg_ts_config_map"
+		},
+		{
+			"schema": "pg_catalog",
+			"table": "pg_ts_dict"
+		},
+		{
+			"schema": "pg_catalog",
+			"table": "pg_ts_parser"
+		},
+		{
+			"schema": "pg_catalog",
+			"table": "pg_ts_template"
+		},
+		{
+			"schema": "pg_catalog",
+			"table": "pg_type"
+		},
+		{
+			"schema": "pg_catalog",
+			"table": "pg_user_mapping"
+		},
+		{
+			"schema": "production",
+			"table": "billofmaterials"
+		},
+		{
+			"schema": "production",
+			"table": "culture"
+		},
+		{
+			"schema": "production",
+			"table": "document"
+		},
+		{
+			"schema": "production",
+			"table": "illustration"
+		},
+		{
+			"schema": "production",
+			"table": "location"
+		},
+		{
+			"schema": "production",
+			"table": "product"
+		},
+		{
+			"schema": "production",
+			"table": "productcategory"
+		},
+		{
+			"schema": "production",
+			"table": "productcosthistory"
+		},
+		{
+			"schema": "production",
+			"table": "productdescription"
+		},
+		{
+			"schema": "production",
+			"table": "productdocument"
+		},
+		{
+			"schema": "production",
+			"table": "productinventory"
+		},
+		{
+			"schema": "production",
+			"table": "productlistpricehistory"
+		},
+		{
+			"schema": "production",
+			"table": "productmodel"
+		},
+		{
+			"schema": "production",
+			"table": "productmodelillustration"
+		},
+		{
+			"schema": "production",
+			"table": "productmodelproductdescriptionculture"
+		},
+		{
+			"schema": "production",
+			"table": "productphoto"
+		},
+		{
+			"schema": "production",
+			"table": "productproductphoto"
+		},
+		{
+			"schema": "production",
+			"table": "productreview"
+		},
+		{
+			"schema": "production",
+			"table": "productsubcategory"
+		},
+		{
+			"schema": "production",
+			"table": "scrapreason"
+		},
+		{
+			"schema": "production",
+			"table": "transactionhistory"
+		},
+		{
+			"schema": "production",
+			"table": "transactionhistoryarchive"
+		},
+		{
+			"schema": "production",
+			"table": "unitmeasure"
+		},
+		{
+			"schema": "production",
+			"table": "workorder"
+		},
+		{
+			"schema": "production",
+			"table": "workorderrouting"
+		},
+		{
+			"schema": "purchasing",
+			"table": "productvendor"
+		},
+		{
+			"schema": "purchasing",
+			"table": "purchaseorderdetail"
+		},
+		{
+			"schema": "purchasing",
+			"table": "purchaseorderheader"
+		},
+		{
+			"schema": "purchasing",
+			"table": "shipmethod"
+		},
+		{
+			"schema": "purchasing",
+			"table": "vendor"
+		},
+		{
+			"schema": "sales",
+			"table": "countryregioncurrency"
+		},
+		{
+			"schema": "sales",
+			"table": "creditcard"
+		},
+		{
+			"schema": "sales",
+			"table": "currency"
+		},
+		{
+			"schema": "sales",
+			"table": "currencyrate"
+		},
+		{
+			"schema": "sales",
+			"table": "customer"
+		},
+		{
+			"schema": "sales",
+			"table": "personcreditcard"
+		},
+		{
+			"schema": "sales",
+			"table": "salesorderdetail"
+		},
+		{
+			"schema": "sales",
+			"table": "salesorderheader"
+		},
+		{
+			"schema": "sales",
+			"table": "salesorderheadersalesreason"
+		},
+		{
+			"schema": "sales",
+			"table": "salesperson"
+		},
+		{
+			"schema": "sales",
+			"table": "salespersonquotahistory"
+		},
+		{
+			"schema": "sales",
+			"table": "salesreason"
+		},
+		{
+			"schema": "sales",
+			"table": "salestaxrate"
+		},
+		{
+			"schema": "sales",
+			"table": "salesterritory"
+		},
+		{
+			"schema": "sales",
+			"table": "salesterritoryhistory"
+		},
+		{
+			"schema": "sales",
+			"table": "shoppingcartitem"
+		},
+		{
+			"schema": "sales",
+			"table": "specialoffer"
+		},
+		{
+			"schema": "sales",
+			"table": "specialofferproduct"
+		},
+		{
+			"schema": "sales",
+			"table": "store"
+		}
+	],
+	"effectiveIntegrationRuntime": "PostgreSQLIntegrationRuntime",
+	"billingReference": {
+		"activityType": "PipelineActivity",
+		"billableDuration": [
+			{
+				"meterType": "SelfhostedIR",
+				"duration": 0.016666666666666666,
+				"unit": "Hours"
+			}
+		],
+		"totalBillableDuration": [
+			{
+				"meterType": "SelfhostedIR",
+				"duration": 0.016666666666666666,
+				"unit": "Hours"
+			}
+		]
+	},
+	"durationInQueue": {
+		"integrationRuntimeQueue": 2
+	}
+} 
