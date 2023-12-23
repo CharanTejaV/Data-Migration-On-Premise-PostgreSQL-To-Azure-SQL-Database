@@ -16,6 +16,8 @@ The step-by-step execution involves setting up the on-premise PostgreSQL server,
 
 # Architecture
 
+![Architecture](https://github.com/CharanTejaV/Data-Migration-On-Premise-PostgreSQL-To-Azure-SQL-Database/assets/143735053/776dc862-60b8-429f-9864-eb089dac7000)
+
 # Dataset used
 The Microsoft Adventure Works PostgreSQL open-source dataset is a version of the popular Adventure Works database tailored for PostgreSQL environments. This dataset offers a comprehensive representation of a fictional company's operations, serving as an invaluable resource for testing and development purposes within PostgreSQL databases. To incorporate this dataset into the on-premise PostgreSQL environment, the process involved executing an Adventure Works OLTP install script. [Setup](https://github.com/lorint/AdventureWorks-for-Postgres/blob/master/README.md) , [Related Article](https://medium.com/@attila_toth/set-up-sample-database-for-postgresql-4c03b7502a7a)
 
